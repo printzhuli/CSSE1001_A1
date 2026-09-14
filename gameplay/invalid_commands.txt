@@ -1,0 +1,20 @@
+Welcome to Pokele
+----- -----
+----- -----
+----- -----
+----- -----
+----- -----
+----- -----
+Please enter your guess (or h for help): pikachu
+Please enter your guess (or h for help): help
+Please enter your guess (or h for help): charmander
+Please enter your guess (or h for help): bulbasaur
+Please enter your guess (or h for help): PythonRocks!
+Please enter your guess (or h for help): quit
+Please enter your guess (or h for help): hint
+Please enter your guess (or h for help): duck
+Please enter your guess (or h for help): quack
+Please enter your guess (or h for help): 12345
+Please enter your guess (or h for help): ¯\_(ツ)_/¯
+Please enter your guess (or h for help): ◝(ᵔᗜᵔ)◜
+Please enter your guess (or h for help): q

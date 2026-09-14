@@ -1,0 +1,124 @@
+Welcome to Pokele
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+Please enter your guess (or h for help): charmander
+Please enter your guess (or h for help): charizard
+charizard ~X~XXX~XX
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+Please enter your guess (or h for help): crawdaunt
+charizard ~X~XXX~XX
+crawdaunt ~X~XX~X~X
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+Please enter your guess (or h for help): relicanth
+charizard ~X~XXX~XX
+crawdaunt ~X~XX~X~X
+relicanth X~OX~~OXX
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+Please enter your guess (or h for help): bastiodon
+charizard ~X~XXX~XX
+crawdaunt ~X~XX~X~X
+relicanth X~OX~~OXX
+bastiodon XO~XXXXX~
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+Please enter your guess (or h for help): stoutland
+charizard ~X~XXX~XX
+crawdaunt ~X~XX~X~X
+relicanth X~OX~~OXX
+bastiodon XO~XXXXX~
+stoutland OXXXX~~~X
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+Please enter your guess (or h for help): gothorita
+charizard ~X~XXX~XX
+crawdaunt ~X~XX~X~X
+relicanth X~OX~~OXX
+bastiodon XO~XXXXX~
+stoutland OXXXX~~~X
+gothorita XXXXXXXX~
+--------- ---------
+--------- ---------
+--------- ---------
+--------- ---------
+Please enter your guess (or h for help): mandibuzz
+charizard ~X~XXX~XX
+crawdaunt ~X~XX~X~X
+relicanth X~OX~~OXX
+bastiodon XO~XXXXX~
+stoutland OXXXX~~~X
+gothorita XXXXXXXX~
+mandibuzz ~O~XXXXXX
+--------- ---------
+--------- ---------
+--------- ---------
+Please enter your guess (or h for help): aegislash
+charizard ~X~XXX~XX
+crawdaunt ~X~XX~X~X
+relicanth X~OX~~OXX
+bastiodon XO~XXXXX~
+stoutland OXXXX~~~X
+gothorita XXXXXXXX~
+mandibuzz ~O~XXXXXX
+aegislash ~~XX~~~~X
+--------- ---------
+--------- ---------
+Please enter your guess (or h for help): tyrantrum
+charizard ~X~XXX~XX
+crawdaunt ~X~XX~X~X
+relicanth X~OX~~OXX
+bastiodon XO~XXXXX~
+stoutland OXXXX~~~X
+gothorita XXXXXXXX~
+mandibuzz ~O~XXXXXX
+aegislash ~~XX~~~~X
+tyrantrum XXXO~XXX~
+--------- ---------
+Please enter your guess (or h for help): lycanroc
+Please enter your guess (or h for help): shiinotic
+charizard ~X~XXX~XX
+crawdaunt ~X~XX~X~X
+relicanth X~OX~~OXX
+bastiodon XO~XXXXX~
+stoutland OXXXX~~~X
+gothorita XXXXXXXX~
+mandibuzz ~O~XXXXXX
+aegislash ~~XX~~~~X
+tyrantrum XXXO~XXX~
+shiinotic OXXX~XXX~
+You fainted!

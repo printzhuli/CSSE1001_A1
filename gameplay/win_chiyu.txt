@@ -1,0 +1,53 @@
+Welcome to Pokele
+----- -----
+----- -----
+----- -----
+----- -----
+----- -----
+----- -----
+Please enter your guess (or h for help): arbok
+arbok XXXXX
+----- -----
+----- -----
+----- -----
+----- -----
+----- -----
+Please enter your guess (or h for help): gloom
+arbok XXXXX
+gloom XXXXX
+----- -----
+----- -----
+----- -----
+----- -----
+Please enter your guess (or h for help): paras
+arbok XXXXX
+gloom XXXXX
+paras XXXXX
+----- -----
+----- -----
+----- -----
+Please enter your guess (or h for help): t
+c - - - -
+0 Hints remaining.
+arbok XXXXX
+gloom XXXXX
+paras XXXXX
+----- -----
+----- -----
+----- -----
+Please enter your guess (or h for help): t
+You have used all hints!
+arbok XXXXX
+gloom XXXXX
+paras XXXXX
+----- -----
+----- -----
+----- -----
+Please enter your guess (or h for help): chiyu
+arbok XXXXX
+gloom XXXXX
+paras XXXXX
+chiyu OOOOO
+----- -----
+----- -----
+You won this battle of wits!

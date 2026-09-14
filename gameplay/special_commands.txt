@@ -1,0 +1,53 @@
+Welcome to Pokele
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+Please enter your guess (or h for help): h
+Type the name of Pokemon to enter a guess, OR:
+- [h/H]: Display this help message
+- [q/Q]: Quit the game
+- [t/T]: Request a hint
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+Please enter your guess (or h for help): H
+Type the name of Pokemon to enter a guess, OR:
+- [h/H]: Display this help message
+- [q/Q]: Quit the game
+- [t/T]: Request a hint
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+Please enter your guess (or h for help): T
+m - - - - -
+1 Hints remaining.
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+Please enter your guess (or h for help): t
+m - - - - -
+0 Hints remaining.
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+------ ------
+Please enter your guess (or h for help): Q

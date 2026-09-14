@@ -1,0 +1,125 @@
+Welcome to Pokele
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+Please enter your guess (or h for help): chienpao
+chienpao ~XX~XXXX
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+Please enter your guess (or h for help): koraidon
+chienpao ~XX~XXXX
+koraidon ~XXXX~XX
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+Please enter your guess (or h for help): cyclizar
+chienpao ~XX~XXXX
+koraidon ~XXXX~XX
+cyclizar ~XO~XXXX
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+Please enter your guess (or h for help): deerling
+chienpao ~XX~XXXX
+koraidon ~XXXX~XX
+cyclizar ~XO~XXXX
+deerling O~~XOXXX
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+Please enter your guess (or h for help): t
+- u - - - - - -
+1 Hints remaining.
+chienpao ~XX~XXXX
+koraidon ~XXXX~XX
+cyclizar ~XO~XXXX
+deerling O~~XOXXX
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+Please enter your guess (or h for help): dusclops
+chienpao ~XX~XXXX
+koraidon ~XXXX~XX
+cyclizar ~XO~XXXX
+deerling O~~XOXXX
+dusclops OOX~OXXX
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+Please enter your guess (or h for help): t
+- - - k - - - -
+0 Hints remaining.
+chienpao ~XX~XXXX
+koraidon ~XXXX~XX
+cyclizar ~XO~XXXX
+deerling O~~XOXXX
+dusclops OOX~OXXX
+-------- --------
+-------- --------
+-------- --------
+-------- --------
+Please enter your guess (or h for help): tornadus
+chienpao ~XX~XXXX
+koraidon ~XXXX~XX
+cyclizar ~XO~XXXX
+deerling O~~XOXXX
+dusclops OOX~OXXX
+tornadus ~XXXX~~X
+-------- --------
+-------- --------
+-------- --------
+Please enter your guess (or h for help): torracat
+chienpao ~XX~XXXX
+koraidon ~XXXX~XX
+cyclizar ~XO~XXXX
+deerling O~~XOXXX
+dusclops OOX~OXXX
+tornadus ~XXXX~~X
+torracat ~XXXX~XO
+-------- --------
+-------- --------
+Please enter your guess (or h for help): trumbeak
+chienpao ~XX~XXXX
+koraidon ~XXXX~XX
+cyclizar ~XO~XXXX
+deerling O~~XOXXX
+dusclops OOX~OXXX
+tornadus ~XXXX~~X
+torracat ~XXXX~XO
+trumbeak ~X~XXOX~
+-------- --------
+Please enter your guess (or h for help): dewpider
+chienpao ~XX~XXXX
+koraidon ~XXXX~XX
+cyclizar ~XO~XXXX
+deerling O~~XOXXX
+dusclops OOX~OXXX
+tornadus ~XXXX~~X
+torracat ~XXXX~XO
+trumbeak ~X~XXOX~
+dewpider O~XXX~~X
+You fainted!

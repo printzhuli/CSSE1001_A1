@@ -1,0 +1,66 @@
+Welcome to Pokele
+------- -------
+------- -------
+------- -------
+------- -------
+------- -------
+------- -------
+------- -------
+------- -------
+Please enter your guess (or h for help): pokemon
+Please enter your guess (or h for help): lombre
+Please enter your guess (or h for help): nuzleaf
+nuzleaf X~XXXXX
+------- -------
+------- -------
+------- -------
+------- -------
+------- -------
+------- -------
+------- -------
+Please enter your guess (or h for help): shiftry 
+nuzleaf X~XXXXX
+shiftry ~XXXXX~
+------- -------
+------- -------
+------- -------
+------- -------
+------- -------
+------- -------
+Please enter your guess (or h for help): vibrava
+nuzleaf X~XXXXX
+shiftry ~XXXXX~
+vibrava XXXXXXX
+------- -------
+------- -------
+------- -------
+------- -------
+------- -------
+Please enter your guess (or h for help): solrock
+nuzleaf X~XXXXX
+shiftry ~XXXXX~
+vibrava XXXXXXX
+solrock ~XXXXOO
+------- -------
+------- -------
+------- -------
+------- -------
+Please enter your guess (or h for help): golduck
+nuzleaf X~XXXXX
+shiftry ~XXXXX~
+vibrava XXXXXXX
+solrock ~XXXXOO
+golduck XXXOOOO
+------- -------
+------- -------
+------- -------
+Please enter your guess (or h for help): psyduck
+nuzleaf X~XXXXX
+shiftry ~XXXXX~
+vibrava XXXXXXX
+solrock ~XXXXOO
+golduck XXXOOOO
+psyduck OOOOOOO
+------- -------
+------- -------
+You won this battle of wits!
