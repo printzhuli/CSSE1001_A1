@@ -4,7 +4,7 @@ from pokemon import POKEMON
 
 # Name: Zhilin Chen
 # Student Number: 49861161
-# Least favourite Pokemon: 
+# Least favourite Pokemon: bellsprout
 # -----------------------------------------------------------------------------
 
 # Define your classes and functions here
@@ -151,5 +151,5 @@ def main(sol_index: int):
 
 
 if __name__ == "__main__":
-    # Run with your choice of Pokemon (This section is for your own testing)
-    main(256)
+    
+    main(67)
